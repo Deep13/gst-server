@@ -9,10 +9,10 @@ const getEinvoice = () => {
 
 
     var raw = JSON.stringify({
-        "username": "",
-        "password": "",
-        "client_id": "",
-        "client_secret": "",
+        "username": "testeway@mastersindia.co",
+        "password": "!@#Demo!@#123",
+        "client_id": "fIXefFyxGNfDWOcCWnj",
+        "client_secret": "QFd6dZvCGqckabKxTapfZgJc",
         "grant_type": "password"
     });
 
